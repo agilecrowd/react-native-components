@@ -1,0 +1,29 @@
+{
+  "name": "react-native-components",
+  "version": "1.0.0",
+  "description": "Collect react native components together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agilecrowd/react-native-components.git"
+  },
+  "keywords": [
+    "React",
+    "React Native",
+    "Components"
+  ],
+  "author": "Richard Li <lifuzu@gmail.com> (http://lifuzu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agilecrowd/react-native-components/issues"
+  },
+  "homepage": "https://github.com/agilecrowd/react-native-components#readme",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-native-linear-gradient": "^1.5.4"
+  }
+}
